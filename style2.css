@@ -1,0 +1,22 @@
+.zoomimage {
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    padding: 30px;
+  }
+  
+  #site_content {
+    width: 854px;
+    overflow: hidden;
+    margin: 0 auto 0 auto;
+    padding: 0 24px 20px 20px;
+    background: #000;
+  }
+  
+
+  
+  
+ 
+
+  

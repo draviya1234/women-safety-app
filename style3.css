@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(209, 186, 242);
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Optional: Style for the contact information in the Lawyers section */
+li p {
+    margin: 0;
+}
+
+/* Optional: Style for the Counselors section */
+ul:last-child li {
+    padding-bottom: 20px;
+}
+
+/* Optional: Style for the Counselors' star ratings */
+ul:last-child li a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #0c04b1; /* Gold color for stars */
+}
